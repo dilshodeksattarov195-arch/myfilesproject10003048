@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smsvpdate",
+        "uuid": 29062680,
+        "checksum": "xkg4ir"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
